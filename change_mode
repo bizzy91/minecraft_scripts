@@ -6,6 +6,6 @@ chmod +x 03_install_wget
 chmod +x 04_download_jdk19
 chmod +x 05_install_jdk19
 chmod +x 06_download_server
-chmod +x 07_run_server1
-chmod +x 08_run_server2
-chmod +x 09_run_server3
+chmod +x 07_run_server_1
+chmod +x 08_run_server_2
+chmod +x 09_run_server_3
