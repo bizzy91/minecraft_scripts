@@ -1,0 +1,2 @@
+#!/bin/bash
+rpm -ivh jdk-19_linux-x64_bin.rpm
